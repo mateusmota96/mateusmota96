@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mateusmota96
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and PHP
+- 🌱 I’m currently learning Python and PHP
 - 💞️ I’m looking to collaborate on everything i can
 - 📫 How to reach me mateus.b.mota@gmail.com
 
